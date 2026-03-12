@@ -1,7 +1,7 @@
 # OpenAI Codex for Open Source — Application Draft
 
 ## Repository
-- Repo: https://github.com/zscy0710/test
+- Repo: https://github.com/zscy0710/fs-mgkc
 - Domain: MATLAB research tooling for hierarchical classification
 
 ## Draft answer (<=500 chars) for “Why does this repository qualify?”
